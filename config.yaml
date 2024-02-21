@@ -1,0 +1,11 @@
+### 디스코드 웹훅 URL ###
+DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1209838089124450434/IW3iGqpeOFsBa28jrT7m6waWPLNJ-Wz4VclX0zLCTKBvDmsNsOM2tIwLa_Fk1x4J1vo5"
+
+### 번호 수집 횟수 ###
+ROUNDING: 100000
+
+### 동행 복권 URL ###
+LOTTO_URL: "https://dhlottery.co.kr/common.do?method=main"
+
+### 동행 복권 역대 당첨 번호 엑셀 URL ###
+EXCEL_URL: "https://dhlottery.co.kr/gameResult.do?method=allWinExel&gubun=byWin&nowPage=0&drwNoStart=1&drwNoEnd="
